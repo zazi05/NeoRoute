@@ -37,7 +37,6 @@ NeoRoute.API/
 └── appsettings.json
 ```
 
-## Next steps for 95 %
 
 1. Run the project and take screenshots of Swagger + successful calls.
 2. Add unit tests (xUnit + WebApplicationFactory) covering the required scenarios.
