@@ -37,10 +37,5 @@ NeoRoute.API/
 └── appsettings.json
 ```
 
-## Next steps for 95 %
 
-1. Run the project and take screenshots of Swagger + successful calls.
-2. Add unit tests (xUnit + WebApplicationFactory) covering the required scenarios.
-3. Add `.github/workflows/ci.yml` that builds + runs tests.
-4. Make ≥ 20 meaningful commits on a Part2 branch.
-5. Update the main README with setup instructions, roles description, CI green screenshot and YouTube link.
+

@@ -456,3 +456,4 @@ C:\Users\simel\Downloads\NeoRoute-Part2-WithTests\NeoRoute.API.Tests\obj\Debug\n
 C:\Users\simel\Downloads\NeoRoute-Part2-WithTests\NeoRoute.API.Tests\obj\Debug\net8.0\NeoRoute.API.Tests.pdb
 C:\Users\simel\Downloads\NeoRoute-Part2-WithTests\NeoRoute.API.Tests\obj\Debug\net8.0\NeoRoute.API.Tests.genruntimeconfig.cache
 C:\Users\simel\Downloads\NeoRoute-Part2-WithTests\NeoRoute.API.Tests\obj\Debug\net8.0\ref\NeoRoute.API.Tests.dll
+C:\Users\simel\Downloads\NeoRoute-Part2-WithTests\NeoRoute.API.Tests\obj\Debug\net8.0\NeoRoute.API.Tests.sourcelink.json
