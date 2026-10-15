@@ -35,6 +35,11 @@ NeoRoute.API/
 ├── Data/RaceDayContext.cs
 ├── Program.cs            Auth, EF, Swagger configuration
 └── appsettings.json
+
+## Build and Test Screenshots
+<img width="1366" height="768" alt="Screenshot 2026-10-15 081626" src="https://github.com/user-attachments/assets/b146dc32-684a-4aca-9089-4f66f5e5b8f0" />
+docs: add CI green build screenshot
+
 ```
 
 
